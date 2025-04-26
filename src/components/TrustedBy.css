@@ -1,0 +1,28 @@
+.trusted-by {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.trusted-by p {
+  color: #6b7280;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.trusted-by .logos {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.trusted-by .logos img {
+  height: 2rem;
+}
+
+@media (max-width: 480px) {
+  .trusted-by .logos {
+    gap: 1rem;
+  }
+}
