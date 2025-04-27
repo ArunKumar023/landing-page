@@ -1,23 +1,30 @@
-Deploy live link: https://landing-page-ten-gules-76.vercel.app/
+Live Demo link: https://landing-page-ten-gules-76.vercel.app/
 
-Project Title: Web Page Replica
-Overview
-This project is a replication of a provided web page design, built using React.js, CSS3, and Font Awesome icons.
-It follows responsive design principles, includes basic animations, and uses semantic HTML5 structure.
+# Landing Page Assignment
 
-How to Run Locally
-Clone the repository (or download the ZIP):
+## Overview
 
-1. git clone https://github.com/ArunKumar023/landing-page
-   Navigate into the project folder:
+This project is a replication of the provided web page design using HTML5, CSS3, and JavaScript/ReactJS.
 
-2. cd your-project-name
-   Install dependencies:
+## Technologies Used
 
-3. npm install
-   Start the development server:
+- HTML5
+- CSS3 (Flexbox/Grid)
+- JavaScript/ReactJS
+- Font Awesome (for icons)
 
-4. npm start
-   Open your browser and visit:
+## How to Run Locally
 
-http://localhost:3000
+1. **Clone the repository (or download the ZIP)**:
+
+   git clone https://github.com/ArunKumar023/landing-page
+
+2. Navigate into the project folder:
+   cd landing-page
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm start
+   Open your browser and visit: http://localhost:3000
