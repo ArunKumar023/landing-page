@@ -1,4 +1,4 @@
-Deploy live link: https://vercel.com/arunkumar023s-projects/landing-page
+Deploy live link: https://landing-page-ten-gules-76.vercel.app/
 
 Project Title: Web Page Replica
 Overview
