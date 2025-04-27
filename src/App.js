@@ -53,7 +53,6 @@ const App = () => {
 
     window.addEventListener('scroll', handleScroll);
 
-    // Set initial active state
     window.dispatchEvent(new Event('scroll'));
 
     return () => {

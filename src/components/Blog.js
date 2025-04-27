@@ -13,8 +13,12 @@ const Blog = () => {
 
   return (
     <section className="blog">
-      <h2>The Project Blog</h2>
-      <p>Designs and layouts to help you with your app.</p>
+      <div className="blog-header">
+        <div className="blog-text">
+          <h2>The Project Blog</h2>
+          <p>Designs and layouts to help you with your app.</p>
+        </div>
+      </div>
       <div className="blog-grid">
         {blogPosts.map((post, index) => (
           <div key={index} className={`blog-post hover-scale ${index < 3 ? 'large-post' : ''}`}>

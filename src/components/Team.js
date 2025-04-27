@@ -15,7 +15,7 @@ const Team = () => {
 
   return (
     <section className="team">
-       <div className="team-header">
+      <div className="team-header">
         <div className="team-text">
           <a href="#" className="team-link">OUR TEAM</a>
           <p>
